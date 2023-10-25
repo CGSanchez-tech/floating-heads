@@ -1,9 +1,13 @@
+/*
+the first thing that everyone does haha
+*/
+
 #include<iostream>
 
 //using namespace std; 
 
 int main(){
 
-    std::cout << "Hi" << '\n';
+    std::cout << "Hello World" << '\n';
 
 }
